@@ -66,7 +66,7 @@ pysolve-toolkit/
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/shivansh26bce10358-boop/pysolve-toolkit-project>
 cd pysolve-toolkit
 
 # 2. No external dependencies -- just run it (Python 3.10+)
