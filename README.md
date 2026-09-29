@@ -1,6 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-09-27 211027" src="https://github.com/user-attachments/assets/384616ef-f3d8-4c06-89bd-9ab5b958f594" /># PySolve -- A Modular Computational Problem-Solving Toolkit
-
-
+** PYSOLVE TOOLKIT**
 ***
 
 This is a command line Python toolkit built for college vityarthi project.
