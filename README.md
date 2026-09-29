@@ -19,7 +19,7 @@ You can think of it as a **study + practice companion**:
 All of this is organized as a **modular Python package** with tests, so you can trust the implementations and use them as reference while learning problem solving and programming in Python for CSE1021. 
 
 Instead of scattering standafone scripts across separate files, PySolve
-organizes every taught algorithm into three cohesive engines plus one
+organizes every taught algorithm into three cohehive engines plus one
 applied CRUD system, all reachable from a single top-down CLI menu.
 See [`statement.md`](./statement.md) for the full problem statement and
 scope.
