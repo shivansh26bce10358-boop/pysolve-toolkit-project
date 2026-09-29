@@ -1,0 +1,227 @@
+[count_occurrences] args=(<modules.array_algorithms.ArraySolver object at 0x7f80c5e94140>, [1, 2, 2, 3, 2], 2) time=0.0018ms
+[count_occurrences] args=(<modules.array_algorithms.ArraySolver object at 0x7f80c5e94140>, [1, 2, 3], 9) time=0.0008ms
+[find_max] args=(<modules.array_algorithms.ArraySolver object at 0x7f80c60c2ba0>, [3, 1, 4, 1, 5, 9]) time=0.0019ms
+[kth_smallest] args=(<modules.array_algorithms.ArraySolver object at 0x7f80c60764e0>, [7, 10, 4, 3, 20, 15], 1) time=0.0053ms
+[kth_smallest] args=(<modules.array_algorithms.ArraySolver object at 0x7f80c60764e0>, [7, 10, 4, 3, 20, 15], 3) time=0.0078ms
+[kth_smallest] args=(<modules.array_algorithms.ArraySolver object at 0x7f80c60764e0>, [7, 10, 4, 3, 20, 15], 6) time=0.0035ms
+[partition] args=(<modules.array_algorithms.ArraySolver object at 0x7f80c60764e0>, [5, 3, 8, 4, 2, 7, 1]) time=0.0037ms
+[remove_duplicates_ordered] args=(<modules.array_algorithms.ArraySolver object at 0x7f80c63ebc20>, [1, 3, 2, 3, 1, 4]) time=0.0029ms
+[reverse] args=(<modules.array_algorithms.ArraySolver object at 0x7f80c63ebc20>, [1, 2, 3, 4]) time=0.0024ms
+[reverse] args=(<modules.array_algorithms.ArraySolver object at 0x7f80c63ebc20>, []) time=0.0007ms
+[dict_operations_demo] args=(<modules.collections_explorer.CollectionsExplorer object at 0x7f80c63fd670>, [('a', '1'), ('b', '2')]) time=0.0044ms
+[list_operations_demo] args=(<modules.collections_explorer.CollectionsExplorer object at 0x7f80c5e6bf50>, [3, 1, 2]) time=0.0034ms
+[set_operations_demo] args=(<modules.collections_explorer.CollectionsExplorer object at 0x7f80c63fd670>, [1, 2, 3], [2, 3, 4]) time=0.0067ms
+[tuple_operations_demo] args=(<modules.collections_explorer.CollectionsExplorer object at 0x7f80c5e42690>, [1, 2, 3]) time=0.0030ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 21, 'Aarav', 'CSE', 8.9) time=0.0015ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 22, 'Diya', 'CSE', 9.2) time=0.0011ms
+[get_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 21) time=0.0006ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 21, 'Aarav', 'CSE', 8.9) time=0.0008ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 22, 'Diya', 'CSE', 9.2) time=0.0006ms
+[delete_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 21) time=0.0006ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 21, 'Aarav', 'CSE', 8.9) time=0.0009ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 22, 'Diya', 'CSE', 9.2) time=0.0009ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 21, 'Aarav', 'CSE', 8.9) time=0.0009ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 22, 'Diya', 'CSE', 9.2) time=0.0006ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 21, 'Aarav', 'CSE', 8.9) time=0.0009ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 22, 'Diya', 'CSE', 9.2) time=0.0006ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 21, 'Aarav', 'CSE', 8.9) time=0.0008ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 22, 'Diya', 'CSE', 9.2) time=0.0006ms
+[update_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 21) time=0.0033ms
+[get_student] args=(<modules.student_manager.StudentManager object at 0x7f80c608bc80>, 21) time=0.0006ms
+[base_convert] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 10, 2) time=0.0074ms
+[base_convert] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 255, 16) time=0.0035ms
+[base_convert] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 0, 2) time=0.0005ms
+[factorial] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 0) time=0.0018ms
+[factorial] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 5) time=0.0018ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 0) time=0.0014ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 1) time=0.0013ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 10) time=0.0010ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 0) time=0.0016ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 0) time=0.0009ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 1) time=0.0022ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 1) time=0.0006ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 2) time=0.0022ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 2) time=0.0006ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 10) time=0.0013ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 10) time=0.0005ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 30) time=0.0024ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 30) time=0.0023ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 50) time=0.0039ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 50) time=0.0021ms
+[gcd] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 48, 18) time=0.0012ms
+[gcd] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 0, 5) time=0.0007ms
+[gcd] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 7, 7) time=0.0004ms
+[generate_primes] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 20) time=0.0088ms
+[integer_sqrt] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 0) time=0.0007ms
+[integer_sqrt] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 16) time=0.0014ms
+[integer_sqrt] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bfe0>, 17) time=0.0008ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bd70>, 2) time=0.0007ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bd70>, 17) time=0.0012ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bd70>, 1) time=0.0004ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bd70>, 18) time=0.0004ms
+[lcg_random] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bc80>,) time=0.0054ms
+[lcg_random] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bc80>,) time=0.0028ms
+[power] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bce0>, 2, 10) time=0.0023ms
+[power] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bce0>, 5, 0) time=0.0005ms
+[prime_factors] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bc20>, 360) time=0.0032ms
+[prime_factors] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bc20>, 17) time=0.0012ms
+[reverse_number] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e68230>, 1234) time=0.0021ms
+[reverse_number] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e68230>, -120) time=0.0012ms
+[smallest_divisor] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bd10>, 15) time=0.0010ms
+[smallest_divisor] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f80c5e6bd10>, 17) time=0.0008ms
+[count_occurrences] args=(<modules.array_algorithms.ArraySolver object at 0x7eff7a0c05c0>, [1, 2, 2, 3, 2], 2) time=0.0017ms
+[count_occurrences] args=(<modules.array_algorithms.ArraySolver object at 0x7eff7a0c05c0>, [1, 2, 3], 9) time=0.0012ms
+[find_max] args=(<modules.array_algorithms.ArraySolver object at 0x7eff7a0c05c0>, [3, 1, 4, 1, 5, 9]) time=0.0017ms
+[kth_smallest] args=(<modules.array_algorithms.ArraySolver object at 0x7eff7a3fc530>, [7, 10, 4, 3, 20, 15], 1) time=0.0054ms
+[kth_smallest] args=(<modules.array_algorithms.ArraySolver object at 0x7eff7a3fc530>, [7, 10, 4, 3, 20, 15], 3) time=0.0071ms
+[kth_smallest] args=(<modules.array_algorithms.ArraySolver object at 0x7eff7a3fc530>, [7, 10, 4, 3, 20, 15], 6) time=0.0031ms
+[partition] args=(<modules.array_algorithms.ArraySolver object at 0x7eff7a5ebbc0>, [5, 3, 8, 4, 2, 7, 1]) time=0.0030ms
+[remove_duplicates_ordered] args=(<modules.array_algorithms.ArraySolver object at 0x7eff7a294710>, [1, 3, 2, 3, 1, 4]) time=0.0029ms
+[reverse] args=(<modules.array_algorithms.ArraySolver object at 0x7eff7a0480b0>, [1, 2, 3, 4]) time=0.0020ms
+[reverse] args=(<modules.array_algorithms.ArraySolver object at 0x7eff7a0480b0>, []) time=0.0006ms
+[dict_operations_demo] args=(<modules.collections_explorer.CollectionsExplorer object at 0x7eff7a0480b0>, [('a', '1'), ('b', '2')]) time=0.0045ms
+[list_operations_demo] args=(<modules.collections_explorer.CollectionsExplorer object at 0x7eff7a3fc530>, [3, 1, 2]) time=0.0031ms
+[set_operations_demo] args=(<modules.collections_explorer.CollectionsExplorer object at 0x7eff7a59b800>, [1, 2, 3], [2, 3, 4]) time=0.0065ms
+[tuple_operations_demo] args=(<modules.collections_explorer.CollectionsExplorer object at 0x7eff7a076480>, [1, 2, 3]) time=0.0034ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a076480>, 21, 'Aarav', 'CSE', 8.9) time=0.0014ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a076480>, 22, 'Diya', 'CSE', 9.2) time=0.0010ms
+[get_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a076480>, 21) time=0.0007ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 21, 'Aarav', 'CSE', 8.9) time=0.0009ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 22, 'Diya', 'CSE', 9.2) time=0.0008ms
+[delete_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 21) time=0.0006ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 21, 'Aarav', 'CSE', 8.9) time=0.0006ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 22, 'Diya', 'CSE', 9.2) time=0.0004ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 21, 'Aarav', 'CSE', 8.9) time=0.0004ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 22, 'Diya', 'CSE', 9.2) time=0.0004ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 21, 'Aarav', 'CSE', 8.9) time=0.0004ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 22, 'Diya', 'CSE', 9.2) time=0.0003ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 21, 'Aarav', 'CSE', 8.9) time=0.0005ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 22, 'Diya', 'CSE', 9.2) time=0.0004ms
+[update_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 21) time=0.0028ms
+[get_student] args=(<modules.student_manager.StudentManager object at 0x7eff7a5ebbc0>, 21) time=0.0006ms
+[base_convert] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a294710>, 10, 2) time=0.0056ms
+[base_convert] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a294710>, 255, 16) time=0.0024ms
+[base_convert] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a294710>, 0, 2) time=0.0003ms
+[factorial] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a2304a0>, 0) time=0.0014ms
+[factorial] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a2304a0>, 5) time=0.0016ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a294710>, 0) time=0.0009ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a294710>, 1) time=0.0010ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a294710>, 10) time=0.0008ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 0) time=0.0012ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 0) time=0.0007ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 1) time=0.0019ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 1) time=0.0005ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 2) time=0.0022ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 2) time=0.0008ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 10) time=0.0017ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 10) time=0.0005ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 30) time=0.0025ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 30) time=0.0017ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 50) time=0.0031ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 50) time=0.0022ms
+[gcd] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a2304a0>, 48, 18) time=0.0013ms
+[gcd] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a2304a0>, 0, 5) time=0.0007ms
+[gcd] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a2304a0>, 7, 7) time=0.0004ms
+[generate_primes] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a294710>, 20) time=0.0078ms
+[integer_sqrt] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 0) time=0.0005ms
+[integer_sqrt] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 16) time=0.0011ms
+[integer_sqrt] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 17) time=0.0013ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a2304a0>, 2) time=0.0007ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a2304a0>, 17) time=0.0012ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a2304a0>, 1) time=0.0003ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a2304a0>, 18) time=0.0004ms
+[lcg_random] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a294710>,) time=0.0054ms
+[lcg_random] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a294710>,) time=0.0025ms
+[power] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 2, 10) time=0.0024ms
+[power] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 5, 0) time=0.0004ms
+[prime_factors] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a2304a0>, 360) time=0.0030ms
+[prime_factors] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a2304a0>, 17) time=0.0011ms
+[reverse_number] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a294710>, 1234) time=0.0020ms
+[reverse_number] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a294710>, -120) time=0.0012ms
+[smallest_divisor] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 15) time=0.0009ms
+[smallest_divisor] args=(<modules.numeric_algorithms.NumericSolver object at 0x7eff7a09b8c0>, 17) time=0.0007ms
+[factorial] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f9a6499f710>, 5) time=0.0030ms
+[gcd] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f9a6499f710>, 48, 18) time=0.0022ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f9a6499f710>, 17) time=0.0016ms
+[factorial] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f45a811ee40>, 5) time=0.0024ms
+[factorial] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f5bd179f710>, 5) time=0.0027ms
+[gcd] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f5bd179f710>, 48, 18) time=0.0023ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f5bd179f710>, 17) time=0.0013ms
+[kth_smallest] args=(<modules.array_algorithms.ArraySolver object at 0x7f5bd1362de0>, [7, 10, 4, 3, 20, 15], 3) time=0.0096ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f5bd1358770>, 21, 'Aarav Sharma', 'CSE', 8.9) time=0.0026ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f5bd1358770>, 22, 'Diya Patel', 'CSE', 9.4) time=0.0013ms
+[count_occurrences] args=(<modules.array_algorithms.ArraySolver object at 0x7f0342e0c6b0>, [1, 2, 2, 3, 2], 2) time=0.0014ms
+[count_occurrences] args=(<modules.array_algorithms.ArraySolver object at 0x7f0342e0c6b0>, [1, 2, 3], 9) time=0.0011ms
+[find_max] args=(<modules.array_algorithms.ArraySolver object at 0x7f0342e0c6b0>, [3, 1, 4, 1, 5, 9]) time=0.0016ms
+[kth_smallest] args=(<modules.array_algorithms.ArraySolver object at 0x7f03434ef800>, [7, 10, 4, 3, 20, 15], 1) time=0.0048ms
+[kth_smallest] args=(<modules.array_algorithms.ArraySolver object at 0x7f03434ef800>, [7, 10, 4, 3, 20, 15], 3) time=0.0068ms
+[kth_smallest] args=(<modules.array_algorithms.ArraySolver object at 0x7f03434ef800>, [7, 10, 4, 3, 20, 15], 6) time=0.0031ms
+[partition] args=(<modules.array_algorithms.ArraySolver object at 0x7f0342d94200>, [5, 3, 8, 4, 2, 7, 1]) time=0.0029ms
+[remove_duplicates_ordered] args=(<modules.array_algorithms.ArraySolver object at 0x7f0342d94200>, [1, 3, 2, 3, 1, 4]) time=0.0030ms
+[reverse] args=(<modules.array_algorithms.ArraySolver object at 0x7f0342d94200>, [1, 2, 3, 4]) time=0.0021ms
+[reverse] args=(<modules.array_algorithms.ArraySolver object at 0x7f0342d94200>, []) time=0.0007ms
+[dict_operations_demo] args=(<modules.collections_explorer.CollectionsExplorer object at 0x7f0342d94200>, [('a', '1'), ('b', '2')]) time=0.0036ms
+[list_operations_demo] args=(<modules.collections_explorer.CollectionsExplorer object at 0x7f0342d94890>, [3, 1, 2]) time=0.0032ms
+[set_operations_demo] args=(<modules.collections_explorer.CollectionsExplorer object at 0x7f0342d94860>, [1, 2, 3], [2, 3, 4]) time=0.0061ms
+[tuple_operations_demo] args=(<modules.collections_explorer.CollectionsExplorer object at 0x7f0342dc24e0>, [1, 2, 3]) time=0.0028ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f0342dc24e0>, 21, 'Aarav', 'CSE', 8.9) time=0.0014ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f0342dc24e0>, 22, 'Diya', 'CSE', 9.2) time=0.0009ms
+[get_student] args=(<modules.student_manager.StudentManager object at 0x7f0342dc24e0>, 21) time=0.0007ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f03434ef800>, 21, 'Aarav', 'CSE', 8.9) time=0.0007ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f03434ef800>, 22, 'Diya', 'CSE', 9.2) time=0.0005ms
+[delete_student] args=(<modules.student_manager.StudentManager object at 0x7f03434ef800>, 21) time=0.0008ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f0343073710>, 21, 'Aarav', 'CSE', 8.9) time=0.0004ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f0343073710>, 22, 'Diya', 'CSE', 9.2) time=0.0004ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f0342f014c0>, 21, 'Aarav', 'CSE', 8.9) time=0.0004ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f0342f014c0>, 22, 'Diya', 'CSE', 9.2) time=0.0003ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f03434ef800>, 21, 'Aarav', 'CSE', 8.9) time=0.0003ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f03434ef800>, 22, 'Diya', 'CSE', 9.2) time=0.0003ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f0343073710>, 21, 'Aarav', 'CSE', 8.9) time=0.0004ms
+[add_student] args=(<modules.student_manager.StudentManager object at 0x7f0343073710>, 22, 'Diya', 'CSE', 9.2) time=0.0003ms
+[update_student] args=(<modules.student_manager.StudentManager object at 0x7f0343073710>, 21) time=0.0028ms
+[get_student] args=(<modules.student_manager.StudentManager object at 0x7f0343073710>, 21) time=0.0005ms
+[base_convert] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f03434ef800>, 10, 2) time=0.0064ms
+[base_convert] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f03434ef800>, 255, 16) time=0.0025ms
+[base_convert] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f03434ef800>, 0, 2) time=0.0003ms
+[factorial] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0343073710>, 0) time=0.0013ms
+[factorial] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0343073710>, 5) time=0.0016ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f03434ef800>, 0) time=0.0008ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f03434ef800>, 1) time=0.0010ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f03434ef800>, 10) time=0.0009ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 0) time=0.0011ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 0) time=0.0006ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 1) time=0.0020ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 1) time=0.0005ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 2) time=0.0020ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 2) time=0.0004ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 10) time=0.0014ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 10) time=0.0005ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 30) time=0.0022ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 30) time=0.0017ms
+[fibonacci_fast] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 50) time=0.0027ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 50) time=0.0021ms
+[gcd] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0343073710>, 48, 18) time=0.0011ms
+[gcd] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0343073710>, 0, 5) time=0.0007ms
+[gcd] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0343073710>, 7, 7) time=0.0004ms
+[generate_primes] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f03434ef800>, 20) time=0.0074ms
+[integer_sqrt] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 0) time=0.0005ms
+[integer_sqrt] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 16) time=0.0011ms
+[integer_sqrt] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 17) time=0.0007ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0343073710>, 2) time=0.0006ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0343073710>, 17) time=0.0010ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0343073710>, 1) time=0.0002ms
+[is_prime] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0343073710>, 18) time=0.0004ms
+[lcg_random] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f03434ef800>,) time=0.0056ms
+[lcg_random] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f03434ef800>,) time=0.0023ms
+[power] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 2, 10) time=0.0021ms
+[power] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 5, 0) time=0.0004ms
+[prime_factors] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0343073710>, 360) time=0.0027ms
+[prime_factors] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0343073710>, 17) time=0.0012ms
+[reverse_number] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f03434ef800>, 1234) time=0.0022ms
+[reverse_number] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f03434ef800>, -120) time=0.0013ms
+[smallest_divisor] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 15) time=0.0009ms
+[smallest_divisor] args=(<modules.numeric_algorithms.NumericSolver object at 0x7f0342de79b0>, 17) time=0.0008ms
+[reverse_number] args=(<modules.numeric_algorithms.NumericSolver object at 0x000001ABD9A97A10>, 5) time=0.0096ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x0000022E1D9E7A10>, 5) time=0.0118ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x0000022E1D9E7A10>, 5) time=0.0069ms
+[fibonacci] args=(<modules.numeric_algorithms.NumericSolver object at 0x000001B0D9DE82F0>, 5) time=0.0089ms

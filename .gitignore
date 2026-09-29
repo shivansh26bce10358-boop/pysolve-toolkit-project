@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+run_log.txt
+.pytest_cache/
+#its hand written not ai#its hand written not ai
