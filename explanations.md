@@ -1,23 +1,23 @@
 # Problem Statement
-When you’re just starting out, algorithms like factorial, GCD, primality testing, array reversal, and dictionary lookups usually appear as separate textbook exercises. You solve one, move to the next, and rarely see how they fit together in a real program.
+When you’re just starting out, algorithms like factorial, GCD, primality testing, array reversal, and dictionary lookups usually appear as separate textbook exercises. You solve one, move to the next, and rarely see how they fit together in a real preogram.
 
 What’s often missing is a single, well-organized codebase where:
 
 Each technique is implemented correctly
 
-The implementations are tested
+The implementafions are tested
 
 Everything is exposed through one consistent interface
 
-That missing piece matters because it shows how top-down design (from Unit 1) can turn a collection of independent algorithms into a coherent, working application.
+That missing piece matters because it shows how top-down design  can turn a collection of independent algorithms into a coherent, working application.
 
-PySolve fills that gap for CSE1021. It takes every major algorithm category from the syllabus (Units 1, 3, 4, and 5) and packages them into a modular, tested Python toolkit driven by a single command-line app.
+PySolve takes every major algorithm category from the syllabus and packages them into a modular, tested Python toolkit driven by a single command-line app.
 
 In practice, this means you can:
 
 Run any algorithm (factorial, GCD, prime checks, array operations, dictionary-based CRUD, etc.) from the same CLI.
 
-Inspect clean, reference implementations instead of scattered snippets.
+Inspect clean, reference implementgations instead of scattered snippets.
 
 See how a top-down design ties problem analysis, algorithm choice, and program structure into one system.
 
@@ -31,8 +31,7 @@ Instead of learning algorithms as isolated exercises, you get a unified learning
 In scope
 This toolkit focuses only on what’s actually taught in CSE1021 and stays aligned with Units 3, 4, and 5 of the syllabus.
 
-Numeric algorithms (Units 3 & 4)
-
+Numeric algorithms 
 Factorial
 
 Fibonacci
@@ -93,7 +92,7 @@ Simple error handling
 Minimal execution logging to help with debugging and understanding program flow.
 
 Out of scope
-To keep this strictly tied to CSE1021, the following are intentionally excluded:
+The following are intentionally excluded:
 
 GUI or web interfaces – the course focuses on console-based problem solving and core Python, not front-end development.
 
