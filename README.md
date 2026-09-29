@@ -1,11 +1,11 @@
-# PySolve -- A Modular Computational Problem-Solving Toolkit
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211027" src="https://github.com/user-attachments/assets/384616ef-f3d8-4c06-89bd-9ab5b958f594" /># PySolve -- A Modular Computational Problem-Solving Toolkit
 
 
 ***
 
-This is a command-line Python toolkit built for **CSE1021: Introduction to Problem Solving and Programming** at VIT Bhopal.
+This is a command line Python toolkit built for college vityarthi project.
 
-Instead of scattering algorithms and data-structure exercises across multiple files and notebooks, it brings everything from **Units 1, 3, 4, and 5** of the course into one clean, modular, and testable application you can run from the terminal. 
+Instead of scattering algorithms and dagta-structure exercises across multiple files and notebooks, it brings everything from all units of the course into one clean, modular, and testable application you can run from the terminal. 
 In practice, that means:
 
 - **Unit 1** concepts (problem-solving approach, algorithms, flowcharts, pseudocode) are reflected in how the toolkit is structured and documented. 
@@ -14,13 +14,13 @@ In practice, that means:
 - **Unit 5** array and list techniques (reversal, counting, max element, duplicate removal, partitioning, kth smallest, plus Python lists/tuples/sets/dicts) are packaged as reusable utilities. 
 
 You can think of it as a **study + practice companion**:  
-- Run an algorithm with a single command to see how it behaves.  
+- Run an algorihm with a single command to see how it behaves.  
 - Inspect the code to understand the implementation.  
 - Modify or extend it for assignments, labs, or exam prep.
 
 All of this is organized as a **modular Python package** with tests, so you can trust the implementations and use them as reference while learning problem solving and programming in Python for CSE1021. 
 
-Instead of scattering standalone scripts across separate files, PySolve
+Instead of scattering standafone scripts across separate files, PySolve
 organizes every taught algorithm into three cohesive engines plus one
 applied CRUD system, all reachable from a single top-down CLI menu.
 See [`statement.md`](./statement.md) for the full problem statement and
@@ -116,23 +116,14 @@ enter a dataset size (e.g. `20000`). The output shows a measured
 list-scan time vs dict-lookup time and the resulting speedup factor.
 
 ## Screenshots
-[text](screenshots)
-**Main menu on launch:**
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211103" src="https://github.com/user-attachments/assets/187ba4c6-fe06-45fb-bc93-29fe71c9bc17" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211115" src="https://github.com/user-attachments/assets/f818c36b-9c95-4916-8c2a-9e608815e523" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211358" src="https://github.com/user-attachments/assets/3c1f6860-6d6a-43f6-b5be-9d6489f83043" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211403" src="https://github.com/user-attachments/assets/84756c94-47c8-45ce-a7e4-1943fabf28fd" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211046" src="https://github.com/user-attachments/assets/d4ab1eb5-8d19-43d8-b9e5-ec8fed0fb592" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-27 211027" src="https://github.com/user-attachments/assets/dd834479-ee38-402a-8ef8-9f6fefe3f712" />
 
-![Main menu](./screenshots/01_main_menu.png)
-
-**Numeric Algorithms -- Factorial:**
-
-![Factorial](./screenshots/02_factorial.png)
-
-**Numeric Algorithms -- GCD:**
-
-![GCD](./screenshots/03_gcd.png)
-
-**Student Record Manager -- add then view a record:**
-
-![Student Record Manager](./screenshots/04_student_manager.png)
 
 ## Author
 
-Shivansh Prasad Chitransh -- BTech CSE, VIT Bhopal
+Shivansh Prasad(26BCE10358)
