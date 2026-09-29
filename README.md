@@ -33,14 +33,6 @@ scope.
 | **Collections Explorer** | List / tuple / set / dictionary operation demos, plus an empirical list-vs-dict lookup speed benchmark |
 | **Student Record Manager** | Full CRUD (add / view / update / delete / list / rank) on a dict-of-tuples record store |
 
-Every algorithm is:
-- Documented with its time and space complexity in a docstring.
-- Wrapped in input validation (`utils/validators.py`) so bad input raises
-  a clear error instead of crashing.
-- Logged on every call (`utils/complexity_logger.py`) to `run_log.txt`
-  with real execution time, for empirical performance inspection.
-- Covered by an automated unit test in `tests/`.
-
 ## Technologies / Tools Used
 
 - **Language:** Python 3.10+
@@ -81,37 +73,8 @@ cd pysolve-toolkit
 python3 main.py
 ```
 
-You'll see a top-level menu:
 
-```
-====================================
-   PySolve - Problem Solving Toolkit
-====================================
-1. Numeric Algorithms
-2. Array Algorithms
-3. Collections Explorer
-4. Student Record Manager
-0. Exit
-```
 
-first of all Pick a module, then pick an operation inside it. Invalid input (letters
-where a number is expected, out-of-range values, etc.) is caught and
-reported without crashing the session.
-
-## Instructions for Testing
-
-Run the full automated test suite (30 tests) from the project root:
-
-```bash
-python3 -m unittest discover -s tests -v
-```
-
-Expected result: `Ran 30 tests ... OK`.
-
-To manually verify the "time tradeoff" claim in Unit 5,  you have to run the toolkit,
-choose **3 (Collections Explorer) → 5 (Time tradeoff benchmark)**, and
-enter a dataset size (e.g. `20000`). The output shows a measured
-list-scan time vs dict-lookup time and the resulting speedup factor.
 
 ## Screenshots
 <img width="1920" height="1080" alt="Screenshot 2026-09-27 211103" src="https://github.com/user-attachments/assets/187ba4c6-fe06-45fb-bc93-29fe71c9bc17" />
